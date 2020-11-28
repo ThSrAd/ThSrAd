@@ -1,28 +1,12 @@
-
-<!--
-**ThSrAd/ThSrAd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Thanujhaa Sriee</h1>
-<h3 align="center">Data Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thsrad&label=Profile%20views&color=0e75b6&style=flat" alt="thsrad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thsrad" alt="thsrad" /></a> </p>
 
-- 🔭 I’m currently working on ** I graduated with a master’s degree in Information Technology management from ‘The University of Texas at Dallas’ and have experience in engineering and analytics. My skill sets are in data engineering and business intelligence. I have built processes supporting ETL data ingestion, data transformation of structured and unstructured data and have on-job working knowledge of distributed/big data systems.Certified Tableau Desktop Specialist, I develop Business Intelligence Dashboards to track business metrics/ KPI**
+- 🔭 I’m  a ** M.S ITM Graduate,‘The University of Texas at Dallas’ with skills in data engineering (distributed/big data systems) and analytics
 
-- 🌱 I’m currently learning **Big Data Frameworks**
+- 🌱 I’m currently working on **Big Data Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThSrAd/Thanujhaa-Sriee-Portfolio](https://github.com/ThSrAd/Thanujhaa-Sriee-Portfolio)
 
