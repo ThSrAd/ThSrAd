@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thanujhaa Sriee</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thsrad&label=Profile%20views&color=0e75b6&style=flat" alt="thsrad" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thsrad" alt="thsrad" /></a> </p>
 
-- 🔭 I’m  a ** M.S ITM Graduate,‘The University of Texas at Dallas’ with skills in data engineering (distributed/big data systems) and analytics
+- 🔭 I’m  a **M.S ITM Graduate,‘The University of Texas at Dallas’ with skills in data engineering and analytics
 
-- 🌱 I’m currently working on **Big Data Frameworks**
+- 🌱 Interested in **Big Data Frameworks, Business Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThSrAd/Thanujhaa-Sriee-Portfolio](https://github.com/ThSrAd/Thanujhaa-Sriee-Portfolio)
 
