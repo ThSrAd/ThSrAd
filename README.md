@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanujhaa Sriee</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thsrad" alt="thsrad" /></a> </p>
-
 - 🔭 I’m  a **M.S ITM Graduate,‘The University of Texas at Dallas’ with skills in data engineering and analytics
 
 - 🌱 Interested in **Big Data Frameworks, Business Intelligence**
