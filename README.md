@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thanujhaa Sriee</h1>
 
-- 🔭 I’m  a **M.S ITM Graduate,‘The University of Texas at Dallas’ with skills in data engineering and analytics
+- 🔭 **M.S ITM Graduate from ‘The University of Texas at Dallas’ with skills in data engineering and analytics**
 
-- 🌱 Interested in **Big Data Frameworks, Business Intelligence**
+- 🌱 Interested in **Big Data Frameworks, Business Intelligence, Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThSrAd/Thanujhaa-Sriee-Portfolio](https://github.com/ThSrAd/Thanujhaa-Sriee-Portfolio)
 
