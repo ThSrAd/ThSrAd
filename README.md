@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/adts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adts" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adts5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="adts5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ts5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ts5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
