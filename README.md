@@ -7,7 +7,7 @@
 - 📊 Data Visualization **[Tableau Portfolio](https://public.tableau.com/profile/adts)**
 - How to reach me **thanujhaa.sriee@gmail.com**
 - Pronouns **She/Her**
-- Fun fact: **I love Volunteering , Listening to Tech - Podcasts**
+- Fun fact: **I love Volunteering and attending Tech meetups, Listening to Tech - Podcasts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
