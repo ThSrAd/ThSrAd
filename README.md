@@ -4,6 +4,7 @@
 - **M.S ITM Graduate from ‘The University of Texas at Dallas’ with skills in data engineering and analytics**
 - Interested in **Big Data Frameworks, Business Intelligence, Data Analytics**
 - 👨‍💻 All of my projects are available at [https://github.com/ThSrAd/Portfolio](https://github.com/ThSrAd/Thanujhaa-Sriee-Portfolio)
+- 📊 Data Visualization [Tableau Portfolio](https://public.tableau.com/profile/adts)
 - How to reach me **thanujhaa.sriee@gmail.com**
 - Pronouns **She/Her**
 - Fun fact: **I love Volunteering , Listening to Tech - Podcasts**
