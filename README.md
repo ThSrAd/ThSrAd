@@ -5,7 +5,7 @@
 - Interested in **Big Data Frameworks, Business Intelligence, Data Analytics**
 - 👨‍💻 All of my projects are available at **[Projects Portfolio](https://github.com/ThSrAd/Thanujhaa-Sriee-Portfolio)**
 - 📊 Data Visualization projects **[Tableau Portfolio](https://public.tableau.com/profile/adts)**
-- How to reach me **thanujhaa.sriee@gmail.com**
+- How to reach me **<a href="https://linkedin.com/in/adts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adts" height="30" width="40" /></a>**
 - Pronouns **She/Her**
 - Fun fact: **I love to volunteer, attend Tech meetups and listen to Podcasts**
 
