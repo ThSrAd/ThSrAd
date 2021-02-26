@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thanujhaa Sriee</h1>
+<h1 align="center">Hi 👋 I'm Thanujhaa Sriee</h1>
 
 
 - **M.S ITM Graduate from ‘The University of Texas at Dallas’ with skills in data engineering and analytics**
