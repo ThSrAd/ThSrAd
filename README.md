@@ -9,7 +9,7 @@
 - **Pronouns She/Her**
 - **Fun fact: I love to volunteer, attend Tech meetups and listen to Podcasts**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me </h3>
 <p align="left">
 <a href="https://linkedin.com/in/adts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adts" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adts5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="adts5" height="30" width="40" /></a>
